@@ -1,0 +1,9 @@
+//第一次使用GitHub，写一个C语言Hello World
+
+#include <stdio.h>
+
+int main(void)
+{
+    printf("Hello World!");
+    return 0;
+}
